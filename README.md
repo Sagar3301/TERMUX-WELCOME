@@ -1,37 +1,19 @@
-# TERMUX-WELCOME PROJECT BY SNEHITH CHOWDARY
-### Beautify your Termux App With a warm welcome
+# TERMUX-WELCOME PROJECT BY SAGAR3301
+## Beautify your Termux App With a warm welcome
 
-## [+] Installation & Usage
-```
-apt update
+### try t-header or t-remix
 
-apt install git -y
+## [+] SORRY SERVER NOT CONNECT
 
-pkg install mpv -y
 
-git clone https://github.com/itzr00tbyte/TERMUX-WELCOME
+# [+] Find Me on :
+## subscribe my channel 
+### Join cahnnel and Show your love with share
+##### Youtube channel link:https://youtube.com/@avengerhacksteachaht3605
 
-cd TERMUX-WELCOME
 
-chmod +x *
 
-sh install.sh
 
-exit
-```
 
-## [+]How to remove 
-```
-cd TERMUX-WELCOME
 
-bash rvt.sh
-```
-<p align="center">
-<img src="https://telegra.ph/file/b5c0c1aeb6c4a54b1f5f4.jpg" alt="Script Kiddie">
-
-    
-## [+] Find Me on :
-#### Telegram :https://t.me/certified_youtuber
-#### Join cahnnel and Show your love :https://t.me/scriptKiddiesvR
-##### Youtube channel :https://www.youtube.com/c/scriptkiddietelugu
 
